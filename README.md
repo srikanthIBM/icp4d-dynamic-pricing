@@ -1,2 +1,2 @@
 # icp4d-dynamic-pricing
-Creating a dynamic pricing model using WML and Watson Studio hosted in ICP for Data.
+Creating an Effective Inventory and Dynamic Pricing Management model using ICP for Data.
